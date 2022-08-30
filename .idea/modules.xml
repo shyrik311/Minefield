@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Minefield.iml" filepath="$PROJECT_DIR$/.idea/modules/Minefield.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Minefield.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Minefield.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Minefield.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Minefield.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Minefield.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Minefield.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Minefield.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Minefield.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
